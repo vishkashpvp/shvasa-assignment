@@ -68,3 +68,20 @@ Thanks to the following sources for providing free license images used in this p
 2. [Shvasa](https://shvasa.com)
 
    - [Logo](https://d2jqv2wi58689p.cloudfront.net/shvasa-logo.svg)
+
+## Production
+
+Shvasa Support System is deployed in production environment and is live. The frontend is hosted on [Vercel](https://vercel.com) and backend is deployed on [Render](https://render.com).
+
+### Deployment Details
+
+- **Frontend (Client):**
+
+  - Hosted on [Vercel](https://vercel.com)
+  - Access the deployed frontend at [https://vishkashpvp-shvasa.vercel.app](https://vishkashpvp-shvasa.vercel.app)
+
+- **Backend (Server):**
+
+  - Hosted on [Render](https://render.com)
+
+Feel free to explore and experience the live application!
