@@ -44,7 +44,7 @@ export default function Agent() {
   return (
     <>
       <div className="flex w-full mt-5">
-        <div className="items-center text-white justify-center hidden w-2/3 bg-[url('./src/assets/support1.svg')] bg-no-repeat lg:flex-col lg:flex"></div>
+        <div className="items-center text-white justify-center hidden w-2/3 bg-[url('./src/assets/images/support1.svg')] bg-no-repeat lg:flex-col lg:flex"></div>
 
         <div className="flex flex-col w-full lg:justify-center lg:items-center lg:w-1/3">
           <h3 className="mb-5 text-3xl">Create Support Agent</h3>
