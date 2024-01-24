@@ -9,6 +9,7 @@ const PORT = config.PORT;
 const app = express();
 
 app.use(cors());
+app.options(cors());
 app.use(express.json());
 
 // Connects to MongoDB
