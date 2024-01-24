@@ -8,7 +8,7 @@ const { connectToMongoDB } = require("./db/mongo");
 const PORT = config.PORT;
 const app = express();
 
-app.use(cors({ origin: config.ALLOWED_ORIGINS }));
+app.use(cors());
 app.use(express.json());
 
 // Connects to MongoDB
